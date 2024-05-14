@@ -1,7 +1,8 @@
 import "./index";
+import Main from "./pages/Main.jsx";
 
 function App() {
-  return <div>hello</div>;
+  return <Main />;
 }
 
 export default App;

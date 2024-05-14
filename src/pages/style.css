@@ -1,0 +1,12 @@
+.layout {
+  /* 최대, 최소 너비 지정 */
+  max-width: 1200px;
+  min-width: 800px;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
